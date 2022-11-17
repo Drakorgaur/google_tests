@@ -1,4 +1,4 @@
-FROM gcc:latest
+FROM gcc:9.5.0
 
 LABEL maintainer="Mark Barzali"
 LABEL maintainer.email="re.markofdark@gmail.com"
